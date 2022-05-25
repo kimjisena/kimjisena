@@ -1,4 +1,4 @@
-## Kim Jisena
+## Jisena
 ![Kim Jisena Codewars](https://www.codewars.com/users/kimjisena/badges/large)
 
 <!--
