@@ -3,7 +3,7 @@
 ## 🤓 About me
 ![Kim Jisena Codewars](https://www.codewars.com/users/kimjisena/badges/large)
 
-I'm Jisena, a community-taught frontend developer. I've spent the best part of my life conjuring ghouls and daemons hidden deep in my computer.
+I'm Jisena, a community-taught software developer. I've spent the best part of my life conjuring ghouls and daemons hidden deep in my computer.
 
 It's been both an exciting journey and a humbling experience. 
 I have witnessed processes give birth to other processes only to end up killing them both. 
