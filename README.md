@@ -40,4 +40,4 @@ Additionally, I'm interested in:
 - I enjoy both ancient and contemporary history. Humanity has come a long way and history tells the best of humanity's stories.
 
 ## 📫 Let's get in touch
-You can find me micro-bragging on [Twitter](https://twittwer.com/kimjisena).
+You can find me micro-bragging on [Twitter](https://twitter.com/kimjisena).
