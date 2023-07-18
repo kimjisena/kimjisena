@@ -1,7 +1,9 @@
 # ¡Hola, mundo! 👋🏿
 
-![Kim Jisena Codewars](https://www.codewars.com/users/kimjisena/badges/large)
+<div style="display: flex; flex-direction: row;">
+  ![Kim Jisena Codewars](https://www.codewars.com/users/kimjisena/badges/large)
 <a href="https://app.daily.dev/kimjisena"><img src="https://api.daily.dev/devcards/6e513d042dde4bf0becf2b2a80ee8b35.png?r=o72" width="400" alt="Kim's Dev Card"/></a>
+</div>
 
 ## 🤓 About me
 
