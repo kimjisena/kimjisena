@@ -2,6 +2,7 @@
 
 ## 🤓 About me
 ![Kim Jisena Codewars](https://www.codewars.com/users/kimjisena/badges/large)
+<a href="https://app.daily.dev/kimjisena"><img src="https://api.daily.dev/devcards/6e513d042dde4bf0becf2b2a80ee8b35.png?r=o72" width="400" alt="Kim's Dev Card"/></a>
 
 I'm Jisena, a community-taught software developer. I've spent the best part of my life conjuring ghouls and daemons hidden deep in my computer.
 
